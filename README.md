@@ -31,7 +31,7 @@ git clone https://github.com/Sunpr-code/PandaCode.git
 
 ### Step2. 下载依赖（可选）
 ``` bash
-pip install -r requirtments.txt
+pip install -r requirments.txt
 ```
 
 ### Step3. 开始编程！
