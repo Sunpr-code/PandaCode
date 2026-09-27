@@ -9,7 +9,7 @@
 - 打包成 exe，双击即用
 
 ## 截图
-![GUI界面截图](/Image/GUI.png "https://github.com/Sunpr-code/PandaCode/Image/GUI.png")
+![GUI界面截图](/image.png "https://github.com/Sunpr-code/PandaCode/image.png")
 
 ## 示例
 ``` PDC
